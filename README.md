@@ -34,8 +34,8 @@ If y represents the dependent variable and x the independent variable, this rela
 
 
 ```python
-#Developed by : CHANDRU.P
-#Register No : 212223110007
+#Developed by : JACKSON RAJ A
+#Register No : 212223040071
 import numpy as np
 import math
 import matplotlib.pyplot as plt
